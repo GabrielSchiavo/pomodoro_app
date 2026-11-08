@@ -1,9 +1,9 @@
-# pomodoro-app
+# pomodoro_app
 
 <p align="left">
    <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/>
    <!-- <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/> -->
-   <img src="https://img.shields.io/github/license/GabrielSchiavo/pomodoro-app?color=blue&style=for-the-badge"/>
+   <img src="https://img.shields.io/github/license/GabrielSchiavo/pomodoro_app?color=blue&style=for-the-badge"/>
 </p>
 
 App Pomodoro, desenvolvido com a linguagem Dart, framework Flutter e MobX.
